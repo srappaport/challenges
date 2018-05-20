@@ -17,7 +17,7 @@ Find the [wikipedia description of Merge Sort here](https://en.wikipedia.org/wik
 GIF that illustrates the concept. There's also [this sweet line dance](https://www.youtube.com/watch?v=XaqR3G_NVoo).
 
 Implement your own version of the algorithm. Avoid the temptation to Google solutions in Ruby or
-other languages. Use just the information linked above and you're own deep thinking.
+other languages. Use just the information linked above and your own deep thinking.
 
 ## Analysis
 
